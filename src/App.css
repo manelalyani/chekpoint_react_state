@@ -1,0 +1,49 @@
+.App {
+  text-align: center;
+  padding: 25px;
+  font-family: sans-serif;
+}
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: rgb(156, 20, 20);
+}
+.App-link {
+  color: #61dafb;
+}
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+  
+  h1{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 30px;
+    font-style: italic;
+    color:chocolate;
+  }
+  img {
+    width:220px;
+    height: 250px;
+    border-radius: 70%;
+    margin-bottom: 20px;
+    margin-left: 550px;
+  }
+  button{
+    background-color: blue;
+    text-align: center;
+    width: 200px;
+    height:50px;
+    cursor: pointer;
+    margin-left: 550px;
+  }
+  
+
